@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566106882991",
+    "project_id": "myduyen121-2181f",
+    "storage_bucket": "myduyen121-2181f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566106882991:android:f9e903fcdd3762631f655a",
+        "android_client_info": {
+          "package_name": "com.myduyen.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566106882991-vdn5oro1johkc6o9idqd2g2uilqhibul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1B3OGljWRxtcqiZVNRK1di4fUKGd0tt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566106882991-vdn5oro1johkc6o9idqd2g2uilqhibul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
